@@ -1,0 +1,11 @@
+numpy
+atari-py==0.1.6
+gym==0.10.9
+ptan
+opencv-python==3.4.3.18
+scipy
+tensorboardX
+tensorflow
+tensorboard
+pybullet
+matplotlib
